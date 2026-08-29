@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiful Uddin</h1>
-<h3 align="center">A Passionate Flutter Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful-softdev&label=Profile%20views&color=0e75b6&style=flat" alt="saiful-softdev" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **dart,flutter,play store,java,spring**
 
-- 📫 How to reach me **suflutter@gmail.com**
+- 📫 How to reach me **saiful0687@gmail.com**
 
 - ⚡ Fun fact **Problem solve is easy**
 
